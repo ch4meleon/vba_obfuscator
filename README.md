@@ -1,4 +1,4 @@
-# vba_obfuscator
+# VBA Obfuscator
 
 VBA Obfuscator which I used for obfuscating vba codes to embed into Microsoft Word document while I'm doing some signature bypass testing in my work.
 
